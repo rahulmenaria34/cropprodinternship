@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-python-3.7
-=======
-python-3.7
->>>>>>> 96fd51eae8e740046ddeced19a81e44080bbe212
+python-3.7.11
